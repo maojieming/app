@@ -1,0 +1,8 @@
+=== puma startup: 2014-03-24 12:29:47 +0800 ===
+[663] + Gemfile in context: /Users/maojieming/www/app/Gemfile
+[662] - Worker 0 (pid: 663) booted, phase: 0
+[664] + Gemfile in context: /Users/maojieming/www/app/Gemfile
+[662] - Worker 1 (pid: 664) booted, phase: 0
+[662] Early termination of worker
+[664] ! Detected parent died, dying
+[663] ! Detected parent died, dying
